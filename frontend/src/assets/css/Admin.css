@@ -1,0 +1,12 @@
+.AdminPage {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  h1{
+    font-size: 60px;
+  }
+  li{
+    font-size: 30px;
+  }
